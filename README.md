@@ -2,7 +2,7 @@
 
 Fair coin simulator based on my own optimized RNG.
 
-# Usage
+## Usage
 
 ```python
 >>> c = Coin()
@@ -14,6 +14,6 @@ Fair coin simulator based on my own optimized RNG.
 
 
 
-# Contribution
+## Contribution
 
 Please don't!
