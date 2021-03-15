@@ -12,8 +12,6 @@ Fair coin simulator based on my own optimized RNG.
 'T'
 ```
 
-
-
-## Contribution
+## Contributing
 
 Please don't!
